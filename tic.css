@@ -1,14 +1,19 @@
+body {
+  background-color: #fde78e;
+  color: #5E005E;
+}
+
 td {
-    border: 1px solid blue;
+    border: 3px solid #AB2F52;
     width: 100px;
     height: 100px;
   }
   
 td:hover {
-    background: orange;
+    background: #E88554;
     
   }
   
 table {
-    border: 1px solid green;
+    border: 1px hidden;
   }
